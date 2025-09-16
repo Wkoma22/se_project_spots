@@ -18,3 +18,4 @@ This webpage is deplyed to GitHub pages
 
 - Deployment Link
 
+https://wkoma22.github.io/se_project_spots/
