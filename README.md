@@ -1,20 +1,20 @@
-# Project 3: Spots
+# Spots - Image sharing site 
 
-### Overview  
+An image sharing site.
 
-* Intro  
-* Figma  
-* Images  
-  
-This project is made so all the elements are displayed correctly on popular screen sizes. We recommend investing more time in completing this project, since it's more difficult than previous ones.  
+## Desription
 
-Used Flex box and page containers to allow the cards to be evenly spaced and be able to shrink and grow when you change the size of the screen.
+Image sharing site that allows users to update and share their images with one another. 
 
-**Figma**    
-https://www.figma.com/design/BBNm2bC3lj8QQMHlnqRsga/Sprint-3-Project--Spots?node-id=51-396&t=f04ZBkA4ApHuDvdP-0
+## Tech Stack
 
+- HTML
+- CSS 
+- Responsive Design
 
+## Deployment
 
+This webpage is deplyed to GitHub pages 
 
-  
+- Deployment Link
 
