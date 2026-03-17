@@ -47,11 +47,15 @@
   background-image: url('../images/Closebtn.svg');
 }
 
+.modal__close-btn:hover {
+  opacity: 0.6;
+}
+
 
 .modal__title {
   margin: 0 0 32px;
   font-weight: 500;
-  size: 32px;
+  font-size: 32px;
   line-height: 100%;
 }
 
@@ -83,6 +87,7 @@
 
 .modal__input::placeholder {
   color: #2121214d;
+  border: none;
 }
 
 .modal__submit-btn {
@@ -102,13 +107,13 @@
 }
 
 @media screen and (max-width: 627px) {
-  .modal__title {
-    size: 20px;
+
+  .modal__container {
+    padding:  10px;
   }
 
-  .modal__close-btn {
-    top: 22px;
-    right: 12px;
+  .modal__title {
+    font-size: 20px;
   }
 
   .modal__close-btn {
