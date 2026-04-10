@@ -1,20 +1,20 @@
-# Spots - Image sharing site 
+# Spots - Image sharing site
 
 An image sharing site.
 
 ## Desription
 
-Image sharing site that allows users to update and share their images with one another. 
+Image sharing site that allows users to update and share their images with one another.
 
 ## Tech Stack
 
 - HTML
-- CSS 
+- CSS
 - Responsive Design
 
 ## Deployment
 
-This webpage is deplyed to GitHub pages 
+This webpage is deplyed to GitHub pages
 
 - Deployment Link
 
