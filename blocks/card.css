@@ -14,10 +14,6 @@
   cursor: pointer;
 }
 
-.card__image:hover {
-  opacity: 0.7;
-}
-
 .card__delete-button {
   background-image: url(../images/spots-images/Delete.svg);
   width: 32px;
@@ -44,7 +40,7 @@
   max-width: 353px;
 }
 
-.card__content {
+.card__footer {
   margin-top: 12px;
   display: flex;
   align-items: center;
