@@ -68,7 +68,7 @@
 }
 
 .modal__close-btn_type_preview:hover {
-  opacity: 0.6;
+  opacity: 1;
 }
 
 .modal__title {
@@ -105,7 +105,7 @@
 }
 
 .modal__input:hover {
-  opacity: 0.7;
+  border-color: #212121;
 }
 
 .modal__input::placeholder {
